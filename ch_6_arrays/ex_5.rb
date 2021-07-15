@@ -5,7 +5,7 @@ a = string[6]
 b = string[11]
 c = string[19]
 
-#is this a trick question? err?
+# is this a trick question? err?
 # otherwise.... a = "e"?
 # b = "A"
 # c = nil
